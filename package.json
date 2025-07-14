@@ -2,6 +2,9 @@
   "name": "facebook-backend",
   "version": "1.0.0",
   "main": "facebook-backend.js",
+  "scripts": {
+    "start": "node facebook-backend.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "axios": "^1.4.0",

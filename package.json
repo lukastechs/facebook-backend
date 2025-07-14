@@ -1,7 +1,7 @@
 {
-  "name": "instagram-backend",
+  "name": "facebook-backend",
   "version": "1.0.0",
-  "main": "instagram-backend.js",
+  "main": "facebook-backend.js",
   "dependencies": {
     "express": "^4.17.1",
     "axios": "^1.4.0",
